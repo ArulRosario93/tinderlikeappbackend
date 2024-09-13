@@ -11,4 +11,4 @@
   status = 200
 
 [template.environment]
-  ABLY_API_KEY = "change me to your Ably API key"
+  ABLY_API_KEY = "7txKrg.7PA-WQ:TkxakMGo7vASKc9srDthOZ2uqPKJUWZzezckWJtZ2VU"
