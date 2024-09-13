@@ -1,4 +1,5 @@
 import { Types } from "ably/promises";
+require('./browser/static/ably-node.js')
 import * as Ably from "ably/promises";
 
 (async () => {
